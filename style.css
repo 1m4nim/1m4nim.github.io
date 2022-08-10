@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+}
+body{
+    font-family: "Comic Sans MS";
+    background: linear-gradient(#ffe4c4,#c1994d);
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+h1{
+    width: 400px;
+    margin: 50px 400px 25px 400px;
+}
+h2{
+    margin: 0px 400px 0px 400px;
+}
+p{
+    margin-left: 400px;
+    font-size: large;
+}
+.main-nav{
+    display: flex;
+    font-size: large;
+    text-transform: uppercase;
+    margin: 0px 350px 25px 350px;
+    list-style: none;
+}
+.main-nav li{
+    margin-left: 50px;
+}
