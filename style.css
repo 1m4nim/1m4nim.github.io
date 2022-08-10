@@ -6,6 +6,9 @@ html{
 body{
     font-family: "Comic Sans MS";
     background: linear-gradient(#ffe4c4,#c1994d);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 a{
     text-decoration: none;
